@@ -1,6 +1,6 @@
 # Human-Resource-Analytics-Dashboard
 
-##Objective
+## Objective
 The Human Resource Analytics Dashboard provides a comprehensive overview of various key performance indicators (KPIs) related to workforce management and employee data within an organization. 
 
 ## KPIs:  
